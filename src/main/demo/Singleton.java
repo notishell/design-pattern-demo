@@ -1,10 +1,12 @@
+package demo;
+
 import java.io.Serial;
 import java.io.Serializable;
 import java.util.Objects;
 
 /**
  * 单例模式
- * Singleton pattern
+ * demo.Singleton pattern
  *
  * @author Notis Hell notishell@gmail.com 2024/03/29 18:48:44
  */
